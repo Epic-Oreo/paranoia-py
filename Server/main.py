@@ -31,7 +31,7 @@ def main():
         with open("dat.json", "w") as f:
             f.write(json.dumps(dat, indent=4))
             f.close()
-        return (dat)
+        return (tmp)
         
 
 

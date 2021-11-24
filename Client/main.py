@@ -1,3 +1,4 @@
+from re import L
 import requests
 import time
 import random
@@ -16,6 +17,10 @@ def join(name):
     input("END>>>")
 
 
+class game():
+    def play(player_data):
+        pass
+
 
 def main():
     on = 1
@@ -26,8 +31,8 @@ def main():
         if cmd == "1":
             name = input("Name: ")
             if len(name) > 0:
-                token = join(name)
-                #play(token)
+                player_data = join(name)
+                game.play(player_data)
             else:
                 print("Your name must be longer than 1 char")
                 input("Press enter to continue...")
