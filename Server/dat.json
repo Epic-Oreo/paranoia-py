@@ -1,12 +1,36 @@
 {
+    "game": {
+        "on": true,
+        "currentP1": "",
+        "currentP2": "",
+        "wisper": "",
+        "awnser": ""
+    },
     "players": [
         {
-            "name": "test2",
-            "token": "F7964UPFKXB74HIWDMAQ479G"
+            "name": "owner",
+            "token": "2HUG83RRT7BHSQ0B2YZ8MABZ",
+            "role": "master"
         },
         {
-            "name": "gun",
-            "token": "DVOSYDI1QG54RCO67AA3MTOV"
+            "name": "player",
+            "token": "4YCSVO182WJ17G5A3L2OLI2G",
+            "role": "player"
+        },
+        {
+            "name": "test2",
+            "token": "W368O35JW5VO649VMP69SF5A",
+            "role": "player"
+        },
+        {
+            "name": "saddsa",
+            "token": "LWNEHIQ223EHD1KVXYVL81YW",
+            "role": "player"
+        },
+        {
+            "name": "dsadsa",
+            "token": "69BYJS360XRO8NDFAKG8S4F5",
+            "role": "player"
         }
     ]
 }
