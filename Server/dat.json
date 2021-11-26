@@ -8,28 +8,13 @@
     },
     "players": [
         {
-            "name": "owner",
-            "token": "2HUG83RRT7BHSQ0B2YZ8MABZ",
+            "name": "dsaads",
+            "token": "L1NY1ALYBB4UKYW5A3Z6TMAR",
             "role": "master"
         },
         {
-            "name": "player",
-            "token": "4YCSVO182WJ17G5A3L2OLI2G",
-            "role": "player"
-        },
-        {
-            "name": "test2",
-            "token": "W368O35JW5VO649VMP69SF5A",
-            "role": "player"
-        },
-        {
-            "name": "saddsa",
-            "token": "LWNEHIQ223EHD1KVXYVL81YW",
-            "role": "player"
-        },
-        {
             "name": "dsadsa",
-            "token": "69BYJS360XRO8NDFAKG8S4F5",
+            "token": "MKP9SICRW7O2PHS3HIYNB6JN",
             "role": "player"
         }
     ]
