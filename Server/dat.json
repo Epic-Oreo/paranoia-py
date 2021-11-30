@@ -8,13 +8,18 @@
     },
     "players": [
         {
-            "name": "dsaads",
-            "token": "L1NY1ALYBB4UKYW5A3Z6TMAR",
+            "name": "GM",
+            "token": "YNAA7T2SEMTUMQ0P8LEHA7CI",
             "role": "master"
         },
         {
-            "name": "dsadsa",
-            "token": "MKP9SICRW7O2PHS3HIYNB6JN",
+            "name": "PLayer ",
+            "token": "0KVEK358QQRIPDAZ2LH2RDE7",
+            "role": "player"
+        },
+        {
+            "name": "dasdsasad",
+            "token": "7DA7KWBTM5NEVGDJC6T8PNHE",
             "role": "player"
         }
     ]

@@ -5,14 +5,22 @@ import random
 import os
 import json
 
+
+def get_env():
+    global server_url
+    server_url = os.getenv("server")
+
+
+
 def cls():
     os.system('cls' if os.name=='nt' else 'clear')
 
 
 
 def join(name):
+    global server_url
     bundle = {"name":name}
-    response = requests.post("http://192.168.86.180:8080/join", json = bundle)
+    response = requests.post("%s/join"%(server_url), json = bundle)
     return (json.loads(response.text))
 
 
